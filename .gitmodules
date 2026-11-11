@@ -1,6 +1,6 @@
 [submodule "h2o"]
-	path = h2o
+	path = chez-h2o
 	url = https://github.com/jaybonthius/chez-h2o.git
 [submodule "lang"]
-	path = lang
+	path = chez-lang
 	url = https://github.com/jaybonthius/chez-lang.git
