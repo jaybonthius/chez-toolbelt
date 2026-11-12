@@ -10,3 +10,6 @@
 [submodule "chez-parakeet/vendor/parakeet.cpp"]
 	path = chez-parakeet/vendor/parakeet.cpp
 	url = https://github.com/jaybonthius/parakeet.cpp.git
+[submodule "md4c"]
+	path = chez-md4c/vendor/md4c
+	url = https://github.com/mity/md4c.git
