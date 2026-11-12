@@ -7,3 +7,6 @@
 [submodule "chez-libghostty/vendor/ghostty"]
 	path = chez-libghostty/vendor/ghostty
 	url = https://github.com/ghostty-org/ghostty.git
+[submodule "chez-parakeet/vendor/parakeet.cpp"]
+	path = chez-parakeet/vendor/parakeet.cpp
+	url = https://github.com/jaybonthius/parakeet.cpp.git
