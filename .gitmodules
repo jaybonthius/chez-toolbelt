@@ -13,3 +13,12 @@
 [submodule "md4c"]
 	path = chez-md4c/vendor/md4c
 	url = https://github.com/mity/md4c.git
+[submodule "chez-haml"]
+	path = chez-haml
+	url = https://github.com/jaybonthius/chez-haml.git
+[submodule "chez-json/tests/JSONTestSuite"]
+	path = chez-json/tests/JSONTestSuite
+	url = https://github.com/nst/JSONTestSuite
+[submodule "chez-datastar/tests/datastar"]
+	path = chez-datastar/tests/datastar
+	url = https://github.com/starfederation/datastar

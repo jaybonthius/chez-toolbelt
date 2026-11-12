@@ -1,3 +1,0 @@
-[submodule "tests/datastar"]
-	path = tests/datastar
-	url = https://github.com/starfederation/datastar
