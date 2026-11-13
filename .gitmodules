@@ -25,3 +25,6 @@
 [submodule "chez-treesitter"]
 	path = chez-treesitter
 	url = https://github.com/jaybonthius/chez-treesitter.git
+[submodule "chez-process"]
+	path = chez-process
+	url = https://github.com/jaybonthius/chez-process.git
