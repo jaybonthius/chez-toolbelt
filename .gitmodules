@@ -22,3 +22,6 @@
 [submodule "chez-parakeet"]
 	path = chez-parakeet
 	url = https://github.com/jaybonthius/chez-parakeet.git
+[submodule "chez-treesitter"]
+	path = chez-treesitter
+	url = https://github.com/jaybonthius/chez-treesitter.git
